@@ -4,6 +4,9 @@
 /api/node_modules
 /api/dist
 
+# config
+/api/.env
+
 # Logs
 logs
 *.log
